@@ -1,5 +1,4 @@
 # Policies
-Privacy policies for our apps
 
 Privary policies for Kelmi Apps applications
 
