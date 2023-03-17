@@ -6,7 +6,7 @@ AIcook
 
 Privacy Policy
 
-This privacy policy describes how BecomeChad collects, uses, and shares information about you when you use our mobile application BecomeChad.
+This privacy policy describes how AIcook collects, uses, and shares information about you when you use our mobile application AIcook.
 
 Please read this Policy carefully before using the App. By using the App, you agree to the collection, use, and sharing of your information as described in this Policy. If you do not agree with our policies and practices, do not download or use the App.
 
